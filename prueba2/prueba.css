@@ -1,0 +1,22 @@
+body{
+    background-color: #01DFD7;
+    
+}
+#Y{
+    color: red;
+}
+h1{
+    color: green;
+}
+.hd{
+    color: blueviolet;
+}       
+span {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: line-through;
+    
+} 
+div{
+    text-align: center;
+}                             
